@@ -99,15 +99,15 @@ hr {
 .section h1,
 h2,
 h3 {
-  color: white;
+ 
   text-align: center;
   padding: 2rem;
 }
 .ow {
-  background-color: rgb(25, 153, 218);
+  background-color: rgb(69, 184, 241);
 }
 .footer{
-    background-color: rgb(25, 153, 218);
+    background-color: rgb(69, 184, 241);
     padding:  2rem 1rem;
     text-align: center;
     color: white;
