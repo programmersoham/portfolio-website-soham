@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
 :root {
-  --primary-color: rgb(27, 187, 236);;
+  --primary-color: rgb(27, 187, 236);
 }
 
 body {
@@ -110,10 +110,10 @@ h3 {
  padding: 2rem; 
 }
 .ow {
-  background-color: rgb(69, 184, 241);
+  background-color: rgb(27, 187, 236);
 }
 .footer{
-    background-color: rgb(69, 184, 241);
+    background-color: rgb(27, 187, 236);
     padding:  2rem 1rem;
     text-align: center;
     color: white;
