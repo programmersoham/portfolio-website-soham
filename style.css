@@ -44,10 +44,10 @@ hr {
   border: 1px solid var(--primary-color);
 }
 .primary-link:hover {
-  background-color:rgb(27, 187, 236);
+  background-color:rgb(241, 33, 33);
 }
 .secondary-link:hover {
-  background-color: rgb(27,187,236);
+  background-color:rgb(236, 222, 17);
 }
 /* list */
 .non-bullet {
