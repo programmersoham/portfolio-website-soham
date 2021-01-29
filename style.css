@@ -10,15 +10,8 @@ body {
 hr {
   margin: 2rem 0rem;
 }
-/* container */
-/* .container {
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  /* margin-bottom: 1rem; */
-  /* padding: 0rem 1rem; */
- */
+
+ 
  .container
 {
     padding: 0rem 1rem;
@@ -37,12 +30,9 @@ hr {
 
 .primary-link {
   background-color: var(--primary-color);
-  /* padding-left: 1rem;
-  padding-right: 1rem;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem; */
+ 
   color: white;
-  /* text-decoration: none; */
+ 
   border-radius: 0.5rem;
 }
 .secondary-link {
@@ -152,9 +142,3 @@ h3 {
   font-size: large;
   text-align: center;
 }
-/* .footer .list-inline .img {
-  max-width: 50px;
-  margin:auto;
-  display: block;
-  border-radius: 50%;
-} */
